@@ -1,0 +1,2 @@
+C:\New folder\maths\obj\Debug\maths.csprojAssemblyReference.cache
+C:\New folder\maths\obj\Debug\maths.csproj.CoreCompileInputs.cache
